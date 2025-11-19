@@ -1,3 +1,8 @@
+# ───────────────────────────────────────────
+#   (©) TECH ZORO TAMIL — HELPER FUNCTIONS
+#   Utility Functions • Premium Source
+# ───────────────────────────────────────────
+
 import base64
 import re
 import asyncio
