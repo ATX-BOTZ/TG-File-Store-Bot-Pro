@@ -1,3 +1,8 @@
+# ───────────────────────────────────────────
+#   🐳 DOCKER SETUP (TECH ZORO TAMIL)
+#   Minimal • Clean • Premium Build
+# ───────────────────────────────────────────
+
 FROM python:3.10
 WORKDIR /app
 COPY . .
