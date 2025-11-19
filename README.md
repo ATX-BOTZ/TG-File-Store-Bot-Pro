@@ -137,7 +137,7 @@ MESSAGES = {
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/Codeflix-Bots/filestore/blob/yato/config.py)
+- Get your [Necessary Variables](https://github.com/ATX-BOTZ/TG-File-Store-Bot-Pro/blob/main/config.py)
 - git clone https://github.com/Codeflix-Bots/filestore
 - # Install Packages
 - pip3 install -U -r requirements.txt
@@ -185,6 +185,7 @@ MESSAGES = {
 
 
 ━━━━━━━━━━━━━━━━━━━━
+
 
 
 
