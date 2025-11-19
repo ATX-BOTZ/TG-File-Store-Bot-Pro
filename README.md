@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/codeflix-bots/filestore/stargazers"><img src="https://img.shields.io/github/stars/codeflix-bots/filestore?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/codeflix-bots/filestore/network/members"> <img src="https://img.shields.io/github/forks/codeflix-bots/filestore?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/codeflix-bots/filestore/blob/yato/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/codeflix-bots/filestore/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/codeflix-bots/filestore?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+
 </p>
 
 <p align="center">
@@ -161,7 +157,7 @@ MESSAGES = {
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/codeflixsupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Techzorotamil"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -173,8 +169,8 @@ MESSAGES = {
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ʏᴀᴛᴏ](https://github.com/Codeflix-Bots)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/proyato) </b>
-- <b>[ᴠᴏᴀᴛ](https://github.com/Codeflix-Bots)  ➻  [ʙᴀsᴇ ʀᴇᴘᴏ](https://github.com/ArihantSharma/FileStoreBot) </b>
+- <b>[zoro](https://t.me/Techzorotamil)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/rinoffi) </b>
+- <b>[Zᴏʀᴏ](https://t.me/Techzorotamil)  ➻  [ʙᴀsᴇ ʀᴇᴘᴏ](https://github.com/ArihantSharma/FileStoreBot) </b>
 
 <h3 align="center">
 <b>🤝 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
@@ -189,6 +185,7 @@ MESSAGES = {
 
 
 ━━━━━━━━━━━━━━━━━━━━
+
 
 
 
